@@ -24,7 +24,7 @@ This project transforms raw transactional data into a fully interactive, 4-page 
 * **Product Detail:** Gauge charts for target tracking, dynamic "What-If" price sensitivity parameters, dynamic metric switchers, and AI Smart Narratives.
 
 * ### Map View
-![Map View](./Map%20view%20Adventure%20Works.jpg)
+![Map View](./Map%20view%20Adventure%20Works.png)
 
 * **Map View:** Geospatial breakdown across North America, Europe, and Pacific regions.
 
