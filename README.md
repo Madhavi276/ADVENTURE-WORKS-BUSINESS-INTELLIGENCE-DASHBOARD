@@ -8,9 +8,24 @@ This project transforms raw transactional data into a fully interactive, 4-page 
 
 ## 📸 Dashboard Views
 
+### Executive Dashboard
+![Executive Dashboard](./Executive%20Dashboard%20Adventure%20Works.png)
+
 * **Executive Dashboard:** High-level KPIs ($24.9M Revenue, $10.5M Profit), revenue trends, monthly KPI variance, and top product performance.
+
+* ### Customer Detail
+![Customer Detail](./Customer%20Detail%20Adventure%20Works.png)
+
 * **Customer Detail:** Demographic breakdowns by income and occupation, top 100 customer leaderboards, and customer lifetime value metrics ($1,431 avg revenue/customer).
+
+* ### Product Detail
+![Product Detail](./Product%20Detail%20Adventure%20Works.png)
+
 * **Product Detail:** Gauge charts for target tracking, dynamic "What-If" price sensitivity parameters, dynamic metric switchers, and AI Smart Narratives.
+
+* ### Map View
+![Map View](./Map%20view%20Adventure%20Works.jpg)
+
 * **Map View:** Geospatial breakdown across North America, Europe, and Pacific regions.
 
 ---
